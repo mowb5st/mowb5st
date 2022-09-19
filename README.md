@@ -1,16 +1,15 @@
-### Hi there 👋
+# Hi! I'm Mansur and I'm Python-developer
 
-<!--
-**mowb5st/mowb5st** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- I’m currently learning in Yandex.Practicum for Python-developer
 
-Here are some ideas to get you started:
+## Languages and Tools in my projects: 
+- Python
+- Django
+- Django REST Framework
+- SQLite
+- HTML
+- CSS
+- Bootstrap
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Contact me:
+[![alt text](https://img.icons8.com/color/48/000000/telegram-app--v1.png)](https://t.me/mowb5st)
